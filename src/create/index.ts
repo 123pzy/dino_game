@@ -1,0 +1,1 @@
+export * from "./createCanvas"; //导出创建画布函数
