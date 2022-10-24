@@ -19,6 +19,8 @@ export function drawCloud(ctx: CanvasRenderingContext2D): void {
     );
     ctx.stroke();
   }, 500);
+
+  let a = 0;
 }
 // var cloudX1 = 0;
 // mySetInterval(() => {
